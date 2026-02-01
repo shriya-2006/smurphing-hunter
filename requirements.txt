@@ -1,8 +1,6 @@
-streamlit
 flask
 pandas
 networkx
 matplotlib
-plotly
-requests
+
 
